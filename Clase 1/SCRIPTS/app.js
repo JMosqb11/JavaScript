@@ -1,18 +1,18 @@
-// let firstName=prompt('Ingrse su Nombre');
-// let lastName=prompt('Ingrese su Apellido');
+let firstName=prompt('Ingrse su Nombre');
+let lastName=prompt('Ingrese su Apellido');
 
-// alert(firstName  +  lastName);
+alert(firstName  +  lastName);
 
-// console.log( firstName);
+console.log( firstName);
 
-// // esto es una constante
+// esto es una constante
 
-// const email="jhoniermosquera61@gmail.com"
-// console.log(`el correo es: ${email}`);
+const email="jhoniermosquera61@gmail.com"
+console.log(`el correo es: ${email}`);
 
-// // undefined
+// undefined
 
-// let mail;
-// console.log(`El correo es:  ${mail}`)
+let mail;
+console.log(`El correo es:  ${mail}`)
 
 
