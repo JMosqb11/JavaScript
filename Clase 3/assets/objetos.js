@@ -8,3 +8,15 @@ let celphone={
 }
 
 console.log(celphone)
+
+const computer={
+    color: 'black',
+    modelo: 'A940',
+    preifericos:[
+        'mouse','teclado','pantalla'
+    ],
+    tipo: 'all in one',
+    matrialConstruccion:['aluminio', 'plastico']
+}
+
+console.log(computer)
