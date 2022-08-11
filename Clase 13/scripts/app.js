@@ -13,4 +13,4 @@ const obtenerNumero = () => {
     console.log(error);
   }
 };
-obtenerNumero()
+obtenerNumero() 
